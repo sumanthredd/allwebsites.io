@@ -1,0 +1,132 @@
+body{
+    font-family:arial,sans-serif;    
+    background-image:url("1567770.gif");
+
+}
+ header{ 
+       width:80%;
+       background-color:black;
+       background-image:url("background.jfif");
+       color:white;
+       margin-left:auto;
+       margin-right:auto;
+       padding:10px;
+       overflow:hidden;
+
+}
+
+
+
+
+header img{
+      width:100px;
+height:100px;
+float:left;
+padding:10px;
+margin-right:10px;
+}
+h1{
+    line-height:5px;
+    font-size:1.5em;
+
+}
+ hgroup h1{
+    font-size:4em;
+    color:black;
+}
+
+
+ hgroup h2{
+    font-size:2em;
+}
+
+
+
+hgroup{
+     width:70%;
+    float:left;
+
+
+}
+
+nav{
+  width:30%;
+    float:right;
+}
+ nav ul{
+   list-style-type:none;
+}
+nav li{
+   float:left;
+   margin-right:15px;
+}
+ul{
+   list-style-type:none;
+   background-color:black;
+}
+
+.nav ul{
+ list-style-type:none;
+ background-color:black;
+margin:0;
+}
+
+.nav ul{
+
+float:left;
+}
+.nav li a{
+text-decoration:none;
+padding:10px;
+display:block;
+
+
+
+ 
+}
+
+
+
+section{
+       width:80%;
+       background-color:white;
+       background-image:url("background.jfif");
+       margin-left:auto;
+       margin-right:auto;
+       border-width:5px;
+       border-style:double;
+       border-color:black;
+       padding:5px;
+      
+}
+
+article img{
+  float:right-top;
+  margin:10px;
+  border-style:double;
+border-width:2px;
+border-color:black;
+padding-top:20px;
+padding-right:20px;
+padding-bottom:20px;
+padding-left:20px;
+
+  
+
+
+}
+
+
+footer{
+       width:80%;
+       background-color:pink;
+       color:white;
+       margin-left:auto;
+       margin-right:auto;
+        padding:10px;
+       
+
+
+
+}
+
